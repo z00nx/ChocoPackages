@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>hfs</id>
+    <title>hfs</title>
+    <version>2.3</version>
+    <authors>Massimo Melina</authors>
+    <owners>Massimo Melina</owners>
+    <summary>The other way to share your files</summary>
+    <description>The other way to share your files</description>
+    <projectUrl>http://www.rejetto.com</projectUrl>
+    <packageSourceUrl>http://svn.code.sf.net/p/hfs/code/</packageSourceUrl>
+    <tags>hfs</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.rejetto.com/sw/license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>http://www.rejetto.com/hfs/?f=wn</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
