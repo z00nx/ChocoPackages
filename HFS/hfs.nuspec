@@ -2,14 +2,15 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>hfs</id>
-    <title>hfs</title>
+    <title>Http File Server</title>
     <version>2.3</version>
     <authors>Massimo Melina</authors>
-    <owners>Massimo Melina</owners>
+    <owners>z00nx</owners>
     <summary>The other way to share your files</summary>
-    <description>The other way to share your files</description>
-    <projectUrl>http://www.rejetto.com</projectUrl>
-    <packageSourceUrl>http://svn.code.sf.net/p/hfs/code/</packageSourceUrl>
+    <description>HTTP server designed for file transfer. Very easy to use, just drag & drop your files in it. It automatically copies in the clipboard the full url of the file, so you just have to paste in your preferred chat. Standalone executable.</description>
+    <projectUrl>http://www.rejetto.com/hfs/</projectUrl>
+    <bugTrackerUrl>https://sourceforge.net/p/hfs/bugs/</bugTrackerUrl>
+    <iconUrl>https://cdn.rawgit.com/dtgm/chocolatey-packages/1fad2456537087cce16972aa1ecbf338dbe755dc/icons/hfs.png</iconUrl>
     <tags>hfs</tags>
     <copyright></copyright>
     <licenseUrl>http://www.rejetto.com/sw/license.txt</licenseUrl>
